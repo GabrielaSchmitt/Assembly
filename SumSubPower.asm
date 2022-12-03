@@ -1,5 +1,5 @@
-# EN-US Translate the following algorithm in C language to Assembly language
-# PT-BR Traduza o seguinte algoritmo na linguagem C para a linguagem Assembly
+; EN-US Translate the following algorithm in C language to Assembly language
+; PT-BR Traduza o seguinte algoritmo na linguagem C para a linguagem Assembly
 #
 # int a;
 # a = a + 2;
