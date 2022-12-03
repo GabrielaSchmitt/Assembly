@@ -21,7 +21,7 @@ la $9, b
 lw $9, ($9)
 
 # subtract a - b and allocate in register $10 // subtrai 3 - 5 e aloca no registrador $10
-subu $10, $8, $
+subu $10, $8, $9
 
 # Store the result of the subtraction // Salva o resultado da subtração em c 
 la $11, c
